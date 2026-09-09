@@ -12,7 +12,7 @@ The directory structure should be as follows:
 
 Ensure you have write permissions to the directory structure and run:
 ```
-php upgrade.php
+php upgrade_moodle.php
 ```
 
 Follow the prompts.
